@@ -1,16 +1,9 @@
 id|parentId|Documento empleado|name|Cargo|VP|Gernal|Gerencia|depto|reportesDirectos|reportes indirectos|image
 1|||Cristian Peñafiel|Vicepresidente GH|Vicepresidente GH||||1|1|https://publicstoragefede.blob.core.windows.net/fotosorganigramas/cristian.jfif
-2|1|1|Martin|Gerente CBE|Vicepresidente GH|Compensacion Beneficios y Estructura|||2|1|https://publicstoragefede.blob.core.windows.net/fotosorganigramas/martin.jfif
-3|2|2|Federico|Subgerente PopleAnalytics|Vicepresidente GH|Compensacion Beneficios y Estructura|People Analytics||2|1|https://publicstoragefede.blob.core.windows.net/fotosorganigramas/fede.jfif
-4|2|2|Laura |Subgerente Estructuras|Vicepresidente GH|Compensacion Beneficios y Estructura|Estructuras Organizacionales||1|1|https://upload.wikimedia.org/wikipedia/commons/2/2d/2023_Ita%C3%BA_Unibanco_Logo.png
-5|3|3|Guillermo Francisco|Analista|Vicepresidente GH|Compensacion Beneficios y Estructura|People Analytics||0|1|https://upload.wikimedia.org/wikipedia/commons/2/2d/2023_Ita%C3%BA_Unibanco_Logo.png
-6|3|3|Geuseppe|Geuseppe|Vicepresidente GH|Compensacion Beneficios y Estructura|People Analytics||0|1|https://upload.wikimedia.org/wikipedia/commons/2/2d/2023_Ita%C3%BA_Unibanco_Logo.png
-7|2|2|Soraida Yopasa|Jefa Compensación|Vicepresidente GH|Compensacion Beneficios y Estructura|Compensación||1|1|https://upload.wikimedia.org/wikipedia/commons/2/2d/2023_Ita%C3%BA_Unibanco_Logo.png
-8|4|4|Juan camilo Martinez|Analista Senior|Vicepresidente GH|Compensacion Beneficios y Estructura|Estructuras Organizacionales||1|1|https://upload.wikimedia.org/wikipedia/commons/2/2d/2023_Ita%C3%BA_Unibanco_Logo.png
-9|4|4|Vacante|Analista Medio|Vicepresidente GH|Compensacion Beneficios y Estructura|Estructuras Organizacionales||1|1|https://upload.wikimedia.org/wikipedia/commons/2/2d/2023_Ita%C3%BA_Unibanco_Logo.png
-10|2|2|Paty|Gerente Nomina|Vicepresidente GH|Compensacion Beneficios y Estructura|Nomina||1|1|https://upload.wikimedia.org/wikipedia/commons/2/2d/2023_Ita%C3%BA_Unibanco_Logo.png
-11|11|11|Juan|Axuliar|Vicepresidente GH|Compensacion Beneficios y Estructura|Estructuras Organizacionales||1|1|https://upload.wikimedia.org/wikipedia/commons/2/2d/2023_Ita%C3%BA_Unibanco_Logo.png
-12|11|11|Maria|Analista Senior|Vicepresidente GH|Compensacion Beneficios y Estructura|Estructuras Organizacionales||1|1|https://upload.wikimedia.org/wikipedia/commons/2/2d/2023_Ita%C3%BA_Unibanco_Logo.png
-13|11|11|Paula|Analista Junior|Vicepresidente GH|Compensacion Beneficios y Estructura|Estructuras Organizacionales||1|1|https://upload.wikimedia.org/wikipedia/commons/2/2d/2023_Ita%C3%BA_Unibanco_Logo.png
-14|11|11|Sara|Axuliar|Vicepresidente GH|Compensacion Beneficios y Estructura|Estructuras Organizacionales||1|1|https://upload.wikimedia.org/wikipedia/commons/2/2d/2023_Ita%C3%BA_Unibanco_Logo.png
-15|11|11|Camilo|Axuliar contable|Vicepresidente GH|Compensacion Beneficios y Estructura|Estructuras Organizacionales||1|1|https://upload.wikimedia.org/wikipedia/commons/2/2d/2023_Ita%C3%BA_Unibanco_Logo.png
+2|1|1|Martin|Gerente CBE|Gerente CBE|Compensacion Beneficios y Estructura|||2|1|https://publicstoragefede.blob.core.windows.net/fotosorganigramas/martin.jfif
+3|2|2|Federico|Subgerente PopleAnalytics|Gerente CBE|Compensacion Beneficios y Estructura|People Analytics||2|1|https://publicstoragefede.blob.core.windows.net/fotosorganigramas/fede.jfif
+4|2|2|Laura |Subgerente Estructuras|Gerente CBE|Compensacion Beneficios y Estructura|Estructuras Organizacionales||1|1|https://upload.wikimedia.org/wikipedia/commons/2/2d/2023_Ita%C3%BA_Unibanco_Logo.png
+5|3|3|Guillermo Francisco|Analista|Gerente CBE|Compensacion Beneficios y Estructura|People Analytics||0|1|https://upload.wikimedia.org/wikipedia/commons/2/2d/2023_Ita%C3%BA_Unibanco_Logo.png
+6|3|3|Geuseppe|Geuseppe|Gerente CBE|Compensacion Beneficios y Estructura|People Analytics||0|1|https://upload.wikimedia.org/wikipedia/commons/2/2d/2023_Ita%C3%BA_Unibanco_Logo.png
+7|2|2|Soraida Yopasa|Jefa Compensación|Gerente CBE|Compensacion Beneficios y Estructura|Compensación||1|1|https://upload.wikimedia.org/wikipedia/commons/2/2d/2023_Ita%C3%BA_Unibanco_Logo.png
+8|4|4|Juan camilo Martinez|Analista Senior|Gerente CBE|Compensacion Beneficios y Estructura|Estructuras Organizacionales||1|1|https://upload.wikimedia.org/wikipedia/commons/2/2d/2023_Ita%C3%BA_Unibanco_Logo.png
